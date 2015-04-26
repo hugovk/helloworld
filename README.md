@@ -2,7 +2,7 @@
 
 Generate a poem, line by line, by changing one word at a time.
 
-A Hack for [NaPoGenMo 2015](https://github.com/NaPoGenMo/NaPoGenMo2015), National Poetry Generation Month:
+A hack for [NaPoGenMo 2015](https://github.com/NaPoGenMo/NaPoGenMo2015), National Poetry Generation Month:
 
 Start from "Hello, world!" (or any two words) and repeatedly replace single a word using a synonym, antonym, rhyme, etc., to make the next line. Uses the [Wordnik API](http://developer.wordnik.com/).
 
