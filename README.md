@@ -88,3 +88,58 @@ Unpleasant person, pursue!
 Unpleasant person, prosecute!  
 Disagreeable person, prosecute!  
 Disagreeable person, engage!  
+
+Finally, an epic 50-liner:
+
+> ## One poem
+
+> One, poem!  
+One, tanka!  
+One, haiku!  
+One, free verse!  
+One, epic!  
+Incomparable, epic!  
+United, epic!  
+United, national epic!  
+Same, national epic!  
+All the same, national epic!  
+Same to you, national epic!  
+One and the same, national epic!  
+One and the same, epically!  
+One and the same, epicly!  
+Uncomparable, epicly!  
+Uncomparable, epicness!  
+Uncomparable, heroic epic!  
+Uncomparable, art epic!  
+One by one, art epic!  
+One by one, rhyme!  
+Combined, rhyme!  
+Confederated, rhyme!  
+Indefinite, rhyme!  
+Indefinite, sonnet!  
+Indefinite, poetize!  
+Indefinite, idealize!  
+Indefinite, poetise!  
+Definite, poetise!  
+Definite, versify!  
+Definite, verse!  
+Circumstantial, verse!  
+Circumstantial, stanza!  
+Circumstantial, versification!  
+Circumstantial, versify!  
+Circumstantial, poetry!  
+Indefinite, poetry!  
+Indefinite, stave!  
+Indefinite, praise!  
+Indefinitely, praise!  
+Indefinitely, versicle!  
+Indefinitely, elegy!  
+Indefinite article, elegy!  
+Indefiniteness, elegy!  
+Indefiniteness, dirge!  
+Indefiniteness, threnody!  
+Indefiniteness, rondeau!  
+General, rondeau!  
+Head, rondeau!  
+Head, abecedarius!  
+Feed head, abecedarius!  
