@@ -143,3 +143,10 @@ General, rondeau!
 Head, rondeau!  
 Head, abecedarius!  
 Feed head, abecedarius!  
+
+## NaNoGenMo
+
+A further hack for [NaNoGenMo 2015](https://github.com/dariusk/NaPoGenMo2015), the National Novel Generation Month, allowed it to generate a 25,000-line epic poem:
+
+ * [*Hello, twirled!* (HTML)](https://hugovk.github.io/mucletters/output/25k.html)
+ * [*Hello, twirled!* (PDF)](https://hugovk.github.io/mucletters/output/25k.pdf)
