@@ -93,6 +93,7 @@ import sys
 import yaml  # pip install PyYAML
 
 from wordnik import swagger, WordApi  # pip install wordnik
+from urllib2 import HTTPError as urllib2_HTTPError
 
 RELATIONSHIPS = ["synonym",
                  "antonym",
@@ -169,8 +170,13 @@ def helloworld(seed):
         print("Try relationship:", relationship)
 
         print("Get words from Wordnik...")
-        words = word_api.getRelatedWords(seed[word_to_change],
-                                         relationshipTypes=relationship)
+        try:
+            words = word_api.getRelatedWords(seed[word_to_change],
+                                             relationshipTypes=relationship)
+        except urllib2_HTTPError:
+            # eg. HTTP Error 401: Unauthorized
+            words = None
+
         if words:
             print("Found words")
             words = words[0].words
